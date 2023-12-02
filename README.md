@@ -1,0 +1,1 @@
+# pyrin-gpu-miner
